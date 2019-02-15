@@ -1,2 +1,2 @@
-# Omotenashicoin-Android
-Omotenashicoin mobile wallet for Android
+# OmotenashiCoin-Android
+OmotenashiCoin mobile wallet for Android
